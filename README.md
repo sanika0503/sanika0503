@@ -81,28 +81,7 @@
 </div>
 
 ###
-<h2></h2>
-</br>
-<div align="center">
-  <a href="mailto:sanikabsatpute@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sanika satpute/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=Linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/8847732237" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="whatsapp logo"  />
-  </a>
-  <a href="https://x.com/sanika_satpute" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=black&logoColor=Black&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
-  </a>
-  <a href="https://leetcode.com/u/Sanika-Satpute" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=Leetcode&label=&color=404040&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
-  </a>
-  
+
   
 </div>
   <h2></h2>
