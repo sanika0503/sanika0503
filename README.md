@@ -21,76 +21,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-  <h2></h2>
-  <h3>𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 , 𝕱𝖗𝖆𝖒𝖊𝖜𝖔𝖗𝖐𝖘 𝖆𝖓𝖉 𝕿𝖔𝖔𝖑𝖘</h3>
-  <h2></h2>
   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="9" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="html5 logo"  />
-  <img width="9" />
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40" alt="html5 logo"  />
-  <img width="9" />
-  </br></br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="9" />
-
-   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40" alt="css3 logo"  />
-  <img width="9" />
-   <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="40" alt="css3 logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="9" />
-  <img src="https://vectorwiki.com/images/gPR02__hibernate.svg" height="40" alt="java logo"  />
-  <img width="9" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-
-  
- </br></br>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mysql.svg" height="40" alt="mysql logo"  />
-  <img width="9" />
-  
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="40" alt="mysql logo"  />
- </br></br>
-  <img width="9" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40" alt="spring logo"  />
-   <img width="9" />
-  <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" height="40" alt="spring logo"  />
-   <img width="9" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="40" alt="spring logo"  />
-   <img width="9" />
-  <img src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" height="40" alt="spring logo"  />
-   <img width="9" />
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="9" />
-  <img src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" height="40" alt="spring logo"  />
-   <img width="9" />
-  <img src="https://www.svgviewer.dev/static-svgs/14366/postman-icon.svg" height="40" alt="spring logo"  />
-   <img width="9" />
-  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/git.svg" height="40" alt="spring logo"  />
- 
-</div>
-
-###
-
-  
-</div>
-  <h2></h2>
-
-
-
-
-
-###
 
 
 
