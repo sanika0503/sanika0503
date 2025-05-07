@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanika0503&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<br></br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanika0503&label=Profile%20views&color=0e75b6&style=flat" alt="sanika0503 /> </p>
 
 ###
