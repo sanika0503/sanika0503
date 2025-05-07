@@ -1,30 +1,120 @@
+<h2 align="center">Hi 👋! </br> My name is Sanika Satpute <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></br> and  I'm a  Full-Stack Developer from India 
 
-# 💫 About Me:
-👋 Hi, I'm Sanika Satpute  <br><br>🔨 **I'm currently working on:<br>- Developing a Real Estate website for on-demand discover real-estate properties <br>- Enhancing my skills in **Redux Toolkit** to build scalable web applications  <br><br>🎉 **I'm looking to collaborate on:<br>- Web development projects using **React, Java, and Spring Boot**  <br>- Open-source contributions in **frontend and backend technologies**  <br><br>🤝 **I'm looking for help with:**  <br>- Advanced **Redux Toolkit** patterns and best practices  <br>- Performance optimization in **Java Spring Boot applications**  <br><br>🌱 **I'm currently learning:**  <br>- Deep diving into **Redux Toolkit** for state management 🚀  <br>- Improving backend efficiency with **Spring Boot and Hibernate**  <br><br>💬 **Ask me about:**  <br>- **Java (Core, Advanced, Spring Boot, Hibernate)**  <br>- **Frontend technologies (React, Redux, JavaScript, HTML, CSS)**  <br>- **Database management (MySQL, MS SQL Server)**  <br>
+</h2>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanika-satpute05-8b6ab1230/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanikabsatpute@gmail.com) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanika0503&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-# 💻 Tech Stack:
-[C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat-square&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanika0503&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sanika0503&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanika0503&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanika0503&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <h2>💻 Tech Stack: </h2>
+  <h3>Languages , Frameworks and Tools</h3>
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="9" />
 
----
-[![](https://visitcount.itsvg.in/api?id=sanika0503&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="html5 logo"  />
+  <img width="9" />
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40" alt="html5 logo"  />
+  <img width="9" />
+  </br></br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="9" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40" alt="css3 logo"  />
+  <img width="9" />
+   <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="40" alt="css3 logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="9" />
+  <img src="https://vectorwiki.com/images/gPR02__hibernate.svg" height="40" alt="java logo"  />
+  <img width="9" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 
   
+ </br></br>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mysql.svg" height="40" alt="mysql logo"  />
+  <img width="9" />
+  
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="40" alt="mysql logo"  />
+ </br></br>
+  <img width="9" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40" alt="spring logo"  />
+   <img width="9" />
+  <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" height="40" alt="spring logo"  />
+   <img width="9" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="40" alt="spring logo"  />
+   <img width="9" />
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" height="40" alt="spring logo"  />
+   <img width="9" />
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="9" />
+  <img src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" height="40" alt="spring logo"  />
+   <img width="9" />
+  <img src="https://www.svgviewer.dev/static-svgs/14366/postman-icon.svg" height="40" alt="spring logo"  />
+   <img width="9" />
+  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/git.svg" height="40" alt="spring logo"  />
+ 
+</div>
 
 
+
+<div align="center"> 
+## 🏆 GitHub Trophies
+  
+![](https://github-profile-trophy.vercel.app/?username=sanika0503&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+<div align="center">
+  <a href="mailto:sanikabsatpute@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sanika-satpute05/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=Linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/sanika_7pute/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/8847732237" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="whatsapp logo"  />
+  </a>
+  <a href="https://x.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=black&logoColor=Black&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
+  </a>
+  <a href="https://leetcode.com/u/sanika_satpute/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=Leetcode&label=&color=404040&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Leetcode logo"  />
+  </a>
+  
+  
+</div>
+</br></br></br></br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajay-lokhande455&label=Profile%20views&color=0e75b6&style=flat" alt="sanika0503 /> </p>
+
+
+###
 
 
 <center><img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /></center>
+
 
