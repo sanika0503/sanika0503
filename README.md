@@ -9,9 +9,6 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanika0503&label=Profile%20views&color=0e75b6&style=flat" alt="sanika0503" /> </p>
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=sanika0503&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sanika0503&theme=onedark&hide_border=false)
-
 <div align="center">
   <h2>💻 Tech Stack: </h2>
   <h3>Languages , Frameworks and Tools</h3>
@@ -70,6 +67,9 @@
   <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/git.svg" height="40" alt="spring logo"  />
  
 </div>
+
+![](https://github-readme-stats.vercel.app/api?username=sanika0503&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sanika0503&theme=onedark&hide_border=false)
 
 
 
