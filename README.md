@@ -3,8 +3,6 @@
 </h2>
 
 ###
-![](https://github-readme-stats.vercel.app/api?username=sanika0503&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sanika0503&theme=onedark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanika0503&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   </br></br>
@@ -15,6 +13,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanika0503&label=Profile%20views&color=0e75b6&style=flat" alt="sanika0503" /> </p>
 </div>
 
+![](https://github-readme-stats.vercel.app/api?username=sanika0503&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sanika0503&theme=onedark&hide_border=false)
 
 <div align="center">
   <h2>💻 Tech Stack: </h2>
