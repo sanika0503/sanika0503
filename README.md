@@ -77,7 +77,7 @@
 
 
 <div align="center"> 
- 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
   
 ![](https://github-profile-trophy.vercel.app/?username=sanika0503&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
